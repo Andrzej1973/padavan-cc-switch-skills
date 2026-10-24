@@ -1,0 +1,35 @@
+{
+  "name": "padavan-cc-switch-skills",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "padavan-network-audit",
+      "path": "skills/padavan-network-audit/SKILL.md"
+    },
+    {
+      "name": "firmware-build-verify",
+      "path": "skills/firmware-build-verify/SKILL.md"
+    },
+    {
+      "name": "firmware-regression-review",
+      "path": "skills/firmware-regression-review/SKILL.md"
+    },
+    {
+      "name": "padavan-neon-ui",
+      "path": "skills/padavan-neon-ui/SKILL.md"
+    },
+    {
+      "name": "preflash-release-gate",
+      "path": "skills/preflash-release-gate/SKILL.md"
+    },
+    {
+      "name": "safe-git-workflow",
+      "path": "skills/safe-git-workflow/SKILL.md"
+    },
+    {
+      "name": "embedded-linux-kernel-review",
+      "path": "skills/embedded-linux-kernel-review/SKILL.md"
+    }
+  ],
+  "note": "Starter pack; review before production use."
+}
